@@ -20,8 +20,8 @@ You start in free aim mode, where your aim marker will follow your cursor and in
 ![image](https://user-images.githubusercontent.com/97246704/169852048-25b1f6b2-a397-40be-b108-91c4e282310f.png)
 
 
-When the left mouse button is pressed, you enter into power mode. You will see a red and a yellow circle appear around the spot where you clicked. The aim marker will no longer track your cursor’s position, but a newly visible power marker will. The power of your shot is based on the distance between the aim marker and the power marker.
-To take the shot, release the left mouse button.
+When the left mouse button is pressed, you enter into power mode. You will see a red and a yellow circle appear around the spot where you clicked. The aim marker will no longer track your cursor’s position, but a newly visible power marker will. The power of your shot is based on the distance between the aim marker and the power marker. <br>
+To take the shot, release the left mouse button. <br>
 The power marker will not track your cursor outside of the Max Power Radius, and if the left mouse button is released while the power marker is inside the Min Power Radius, the shot will be cancelled.
 
 ![image](https://user-images.githubusercontent.com/97246704/169852163-e3e9d9d1-10df-443f-806e-4fa52c5b20e2.png)
