@@ -1,0 +1,2 @@
+David created the One Lone Coder Pixel Game Engine, a C++ header file that defines a namespace and a class that allows me to create a window and draw to it. Without the OLCPGE, Billiards would not be possible.
+Kate helped me design the table and the background in the game. She is responsible for the colours that you see in-game.
