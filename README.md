@@ -1,6 +1,8 @@
 <h1>Billiards</h1>
 
 This is a project I worked on between June 2020 and April 2021 for my A-Level Computer Science project. It was my first time exploring a low-level language and I was learning as I went along, so much of the code is suboptimal.
+For example, I didn't discover what the intended purpose of header files were until after the project; where I was using a header file for the graphical output and mouse input, I just assumed that you only use one .cpp (or equivelant) file, and include additional functionality from header files.
+While I did know that C++ is a more performant language than Python (where the majority of my programming experience was at the time), I didn't know about Garbage Collectors or Memory Safety. This means that the project will inevitably have memory leaks, and I hope to revisit the project some time to find and fix them. 
 
 https://user-images.githubusercontent.com/97246704/169848423-db1c26c3-f9e2-442b-8d64-24bf6719219f.mp4
 
