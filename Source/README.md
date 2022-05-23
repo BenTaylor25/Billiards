@@ -35,6 +35,33 @@ The `PositionAndRadius` 'interface' is more like an abstract class used by `C_Po
 The `triangleAdj()` function is used to calculate the positions of balls in the triangle formation.
 
 
+
+<h3>Menu_Screens.h</h3>
+
+This file contains everything to do with the menus.
+
+Fun fact: `DrawBackground()` was initially created when I was suitability-testing the olcPixelGameEngine; I liked the design enough to include it in the final product.
+
+
+
+<h3>Game_Loop.h</h3>
+
+The switch stack in `Source.cpp` would be much larger if the main game loops for Pool and Snooker weren't abstracted out to this file.
+
+
+
+<h3>Game_FrontEnd.h</h3>
+
+
+
+<h3>Game_BackEnd.h</h3>
+
+
+
+<h3>Game_Rules.h</h>
+
+
+
 <h2>olcPixelGameEngine.h</h2>
 See <a href="https://github.com/OneLoneCoder/olcPixelGameEngine">olcPixelGameEngine</a>.
 
