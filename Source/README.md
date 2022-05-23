@@ -75,3 +75,20 @@ This file keeps track of the game state: <br>
 <h3>olcPixelGameEngine.h</h3>
 See <a href="https://github.com/OneLoneCoder/olcPixelGameEngine">olcPixelGameEngine</a>.
 
+
+
+<h3>HelpText.h</h3>
+
+This file contains the text that will be displayed on the Help page. <br>
+
+The text wrapping is mostly handled automatically in `Setup.h`, but there are some points where you want to manually insert line breaks (e.g. at the end of a paragraph). <br>
+
+The '¬' character is what I use to insert manual line breaks. When the printer in `Setup.h` sees a '¬' character, it inserts a line break.
+
+
+
+<h3>CreditsText.h</h3>
+
+This file contains the text that will be displayed on the Credits page. <br>
+
+Thanks again to <a href="https://github.com/OneLoneCoder">David Barr</a> and <a href="https://github.com/TheWelshEngineer">Kate Upson-Smith</a>.
