@@ -1,3 +1,5 @@
+<h1>Download</h1>
+
 If you would like to play Billiards without compiling the C++, you can download these files. <br>
 Bear in mind, however, that this will only work for Windows.
 
