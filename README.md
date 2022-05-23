@@ -5,7 +5,7 @@ For example, I didn't discover what the intended purpose of header files were un
 While I did know that C++ is a more performant language than Python (where the majority of my programming experience was at the time), I didn't know about Garbage Collectors or Memory Safety. This means that the project will inevitably have memory leaks, and I hope to revisit the project some time to find and fix them. 
 
 The graphical output and keyboard input of this project was handled by <a href="https://github.com/OneLoneCoder">One Lone Coder</a>'s <a href="https://github.com/OneLoneCoder/olcPixelGameEngine">Pixel Game Engine</a> header file. <br>
-I remember struggling for quite some time trying to fine a C++ graphics library that had everything I needed and was easy enough for 16-year-old me to understand, and the olcPixelGameEngine was that, so thank you <a href="https://www.youtube.com/c/javidx9">javidx9</a> / David for making the olcPGE, as the project likely wouldn't have been possible at all without it.
+I remember struggling for quite some time trying to find a C++ graphics library that had everything I needed and was easy enough for 16-year-old me to understand, and the olcPixelGameEngine was that, so thank you <a href="https://www.youtube.com/c/javidx9">javidx9</a> / David for making the olcPGE, as the project likely wouldn't have been possible at all without it.
 
 \* C++ is considered a high-level language as it abstracts much of the detail away from the equivelant in machine code, but as you don't get as much help as you do in Python for example, so you can consider C++ to be a 'lower' level than Python.
 
