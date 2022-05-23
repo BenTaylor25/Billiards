@@ -52,16 +52,26 @@ The switch stack in `Source.cpp` would be much larger if the main game loops for
 
 <h3>Game_FrontEnd.h</h3>
 
+This file handles drawing to the screen while Pool or Snooker is in progress.
+
 
 
 <h3>Game_BackEnd.h</h3>
 
-
-
-<h3>Game_Rules.h</h>
+This file handles the Physics and Maths required to make the game work.
 
 
 
-<h2>olcPixelGameEngine.h</h2>
+<h3>Game_Rules.h</h3>
+
+This file keeps track of the game state: <br>
+- Who's turn is it? <br>
+- What colour should each player target? <br>
+- What should happen when a given ball is pocketed? <br>
+- Is the game over?
+
+
+
+<h3>olcPixelGameEngine.h</h3>
 See <a href="https://github.com/OneLoneCoder/olcPixelGameEngine">olcPixelGameEngine</a>.
 
