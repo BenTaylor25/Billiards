@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/97246704/169848423-db1c26c3-f9e2-442b-
 
 <h2>Controls</h2>
 
-In this version of Billiards, you have two aiming stages, free aim, and power mode. 
+In this version of Billiards, you have two aiming stages, free aim, and power mode. <br>
 You start in free aim mode, where your aim marker will follow your cursor and indicate where the ball should start accelerating towards.
 
 ![image](https://user-images.githubusercontent.com/97246704/169852048-25b1f6b2-a397-40be-b108-91c4e282310f.png)
