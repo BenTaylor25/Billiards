@@ -6,11 +6,11 @@ I used Visual Studio 2019 for development. <br>
 The original upload of this project contained the Visual Studio boilerplate, but this has been removed.
 
 
-<h2>Files Explained</h1>
+<h1>Files Explained</h1>
 
 *This is a non-exhaustive description of each file, to help with understanding the program*
 
-<h3>Source.cpp</h3>
+<h2>Source.cpp</h2>
 
 This is the start of the project. <br>
 
@@ -20,7 +20,7 @@ I have some variable to keep track of the state, and use switch statements to ca
 
 
 
-<h3>Setup.h</h3>
+<h2>Setup.h</h2>
 
 Functions from this file are called from `Source.cpp` at the start of the program. <br>
 
@@ -36,7 +36,7 @@ The `triangleAdj()` function is used to calculate the positions of balls in the 
 
 
 
-<h3>Menu_Screens.h</h3>
+<h2>Menu_Screens.h</h2>
 
 This file contains everything to do with the menus.
 
@@ -44,25 +44,25 @@ Fun fact: `DrawBackground()` was initially created when I was suitability-testin
 
 
 
-<h3>Game_Loop.h</h3>
+<h2>Game_Loop.h</h2>
 
 The switch stack in `Source.cpp` would be much larger if the main game loops for Pool and Snooker weren't abstracted out to this file.
 
 
 
-<h3>Game_FrontEnd.h</h3>
+<h2>Game_FrontEnd.h</h2>
 
 This file handles drawing to the screen while Pool or Snooker is in progress.
 
 
 
-<h3>Game_BackEnd.h</h3>
+<h2>Game_BackEnd.h</h2>
 
 This file handles the Physics and Maths required to make the game work.
 
 
 
-<h3>Game_Rules.h</h3>
+<h2>Game_Rules.h</h2>
 
 This file keeps track of the game state: <br>
 - Who's turn is it? <br>
@@ -72,12 +72,12 @@ This file keeps track of the game state: <br>
 
 
 
-<h3>olcPixelGameEngine.h</h3>
+<h2>olcPixelGameEngine.h</h2>
 See <a href="https://github.com/OneLoneCoder/olcPixelGameEngine">olcPixelGameEngine</a>.
 
 
 
-<h3>HelpText.h</h3>
+<h2>HelpText.h</h2>
 
 This file contains the text that will be displayed on the Help page. <br>
 
@@ -87,7 +87,7 @@ The '¬' character is what I use to insert manual line breaks. When the printer 
 
 
 
-<h3>CreditsText.h</h3>
+<h2>CreditsText.h</h2>
 
 This file contains the text that will be displayed on the Credits page. <br>
 
