@@ -1,4 +1,5 @@
-If you would like to play Billiards without compiling the C++, you can download these files.
+If you would like to play Billiards without compiling the C++, you can download these files. <br>
+Bear in mind, however, that this will only work for Windows.
 
 Make sure to place them in the same folder. <br>
 You may wish to create a shortcut to the executable file (`.exe`) so that you can access the game from a folder that doesn't contain the text files.
