@@ -9,6 +9,8 @@ While I did know that C++ is a more performant language than Python (where the m
 The graphical output and keyboard input of this project was handled by <a href="https://github.com/OneLoneCoder">One Lone Coder</a>'s <a href="https://github.com/OneLoneCoder/olcPixelGameEngine">Pixel Game Engine</a> header file. <br>
 I remember struggling for quite some time trying to find a C++ graphics library that had everything I needed and was easy enough for 16-year-old me to understand, and the olcPixelGameEngine was that, so thank you <a href="https://www.youtube.com/c/javidx9">javidx9</a> / David for making the olcPGE, as the project likely wouldn't have been possible at all without it.
 
+For those who are interested, there are approximately 1400 lines of code.
+
 https://user-images.githubusercontent.com/97246704/169848423-db1c26c3-f9e2-442b-8d64-24bf6719219f.mp4
 
 <h3>Demos on YouTube:</h3>
