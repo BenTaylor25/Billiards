@@ -11,7 +11,9 @@ I remember struggling for quite some time trying to find a C++ graphics library 
 
 For those who are interested, there are approximately 1400 lines of code.
 
+<!--
 https://user-images.githubusercontent.com/97246704/169848423-db1c26c3-f9e2-442b-8d64-24bf6719219f.mp4
+-->
 
 <h3>Demos on YouTube:</h3>
 - <a href="https://www.youtube.com/watch?v=cdiVpsB5q_E">Pool</a> <br>
